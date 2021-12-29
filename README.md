@@ -11,8 +11,8 @@ When you load the page, the current date and time is displayed at the top. When 
 * jQuery
 * Moment.js
 
-## How it looks & works
-![JavaScript-Quiz tutorial](https://github.com/sper0054/JavaScript-Quiz/blob/main/JavaScript%20Quiz.gif)
+## How it looks
+![Work-Day Screen-Shot](https://github.com/sper0054/Work-Day-Scheduler/blob/main/Screen%20Shot.png)
 
 ## Links
 [Work-Day-Scheduler website](https://sper0054.github.io/Work-Day-Scheduler/)
